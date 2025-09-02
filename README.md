@@ -59,4 +59,4 @@ print("Best fitness:", optimizer.global_fitness_best)
 ---
 
 ### License  
-This project is for educational purposes (course project, University of Milano-Bicocca).  
+This project is for educational purposes (course project, University of Pavia, University of Milan "La Statale" and University of Milano-Bicocca).  
